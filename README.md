@@ -17,4 +17,4 @@ The samples generated are more clearer compared to LDA. This is because QDA do n
 ![Samples generated](qda_mnist.jpg)
 
 ### Todo:
-1. Add formula used in readme.md
+1. Add formula used in implementation
